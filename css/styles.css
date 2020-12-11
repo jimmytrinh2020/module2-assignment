@@ -1,0 +1,35 @@
+
+h1{
+	font-size: 3rem;
+  color:rgba(0,0,0,.7);
+}
+li{
+	margin-bottom: 7px;
+	font-size: 1.2em;
+}
+li > button {
+	margin-left: 6px;
+	background-color: #C3b9b9;
+	color: #000000;
+	font-weight: bold;
+	border: 2px solid black;
+	border-radius: 3px;
+}
+
+#buy{
+	color: #0000FF;
+}
+#bought{
+	color: #FF6600;
+}
+.emptyMessage {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.half{
+	width: 40%;
+	margin-right: 2%;
+	float: left;
+	display: inline-block;
+}
